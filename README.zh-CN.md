@@ -27,7 +27,7 @@
 ## 安装方法
 
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/)（Chrome/Edge）或 [Greasemonkey](https://www.greasespot.net/)（Firefox）
-2. 点击 `gogogo.js` 的 "Raw" 按钮安装脚本
+2. 点击 `TTS.js` 的 "Raw" 按钮安装脚本
 3. 打开任意 YouTube 视频页面
 
 ## 使用方法

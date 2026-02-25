@@ -27,7 +27,7 @@ A Tampermonkey/Greasemonkey userscript that automatically detects and reads YouT
 ## Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) (Chrome/Edge) or [Greasemonkey](https://www.greasespot.net/) (Firefox)
-2. Click "Raw" on `gogogo.js` and install the userscript
+2. Click "Raw" on `TTS.js` and install the userscript
 3. Open any YouTube video page
 
 ## Usage
