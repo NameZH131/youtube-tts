@@ -4,6 +4,8 @@
 
 A Tampermonkey/Greasemonkey userscript that automatically detects and reads YouTube subtitles using browser text-to-speech (TTS). Designed for multi-line translated subtitle scenarios.
 
+![image-20260225233312039](assets/image3.png)
+
 ## Features
 
 - **Custom Class Selector**: Parse subtitles by specifying CSS class names (supports multiple classes)

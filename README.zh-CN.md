@@ -4,6 +4,8 @@
 
 一个油猴脚本（Tampermonkey/Greasemonkey），自动检测并朗读 YouTube 字幕，使用浏览器文本转语音（TTS）功能。专为多行翻译字幕场景设计。
 
+![image-20260225233312039](assets/image3.png)
+
 ## 功能特性
 
 - **自定义类名选择器**：通过指定 CSS 类名解析字幕（支持多个类名）
