@@ -99,7 +99,7 @@
 
 ## 版本信息
 
-当前版本：`0.2.0-alpha`
+当前版本：`0.7.0-alpha`
 
 ## 许可证
 
@@ -111,5 +111,5 @@ NameZH131 - [GitHub](https://github.com/NameZH131)
 
 ## 支持
 
-- [问题反馈](https://github.com/NameZH131/youtube TTS/issues)
-- [项目主页](https://github.com/NameZH131/youtube TTS)
+- [问题反馈](https://github.com/NameZH131/youtube-tts/issues)
+- [项目主页](https://github.com/NameZH131/youtube-tts)

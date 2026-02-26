@@ -9,8 +9,8 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @run-at       document-idle
-// @homepage     https://github.com/NameZH131/YouTube TTS
-// @supportURL   https://github.com/NameZH131/YouTube TTS/issues
+// @homepage     https://github.com/NameZH131/youtube-tts
+// @supportURL   https://github.com/NameZH131/youtube-tts/issues
 // @license      MIT
 // ==/UserScript==
 (function() {

@@ -98,7 +98,7 @@ A Tampermonkey/Greasemonkey userscript that automatically detects and reads YouT
 
 ## Version
 
-Current version: `0.2.0-alpha`
+Current version: `0.7.0-alpha`
 
 ## License
 
@@ -110,5 +110,5 @@ NameZH131 - [GitHub](https://github.com/NameZH131)
 
 ## Support
 
-- [Issues](https://github.com/NameZH131/youtube TTS/issues)
-- [Homepage](https://github.com/NameZH131/youtube TTS)
+- [Issues](https://github.com/NameZH131/youtube-tts/issues)
+- [Homepage](https://github.com/NameZH131/youtube-tts)
